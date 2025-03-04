@@ -158,11 +158,15 @@ I chose the second approach for shorter sections where impact is likely to be ne
     
     (2nd approach): Replaced existing videos in existing lectures with the new videos.
 
+    Changed structure slightly - core topics are the same though.
+
     If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
 
 20. **Node.js & TypeScript**
 
     (2nd approach): Replaced existing videos in existing lectures with the new videos.
+
+    Changed structure slightly & covering additional content about native Node.js TypeScript support.
 
     If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
 
