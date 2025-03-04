@@ -148,6 +148,8 @@ I chose the second approach for shorter sections where impact is likely to be ne
 
     (2nd approach): Replaced existing videos in existing lectures with the new videos.
 
+    Slightly changed structure, now covering Zod as a modern TypeScript-first library.
+
     If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
 
 18. **Time to Practice! Select & Share Place App**
