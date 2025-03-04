@@ -92,6 +92,8 @@ I chose the second approach for shorter sections where impact is likely to be ne
 
     (2nd approach): Replaced existing videos in existing lectures with the new videos.
 
+    Added some new lectures (e.g., about "as const", "Index Types" and "satisfies")
+
     If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
 
 8. **Generic Types** 
