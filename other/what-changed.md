@@ -64,17 +64,17 @@ I chose the second approach for shorter sections where impact is likely to be ne
 
     Alternatively, you can switch to the new, updated section 2 right away and rewatch it from the beginning. This is not required, though.
 
-3. **Essentials Demo Project**
-
-    BRAND-NEW section! 
-
-4. **Configuring TypeScript Projects**
+3. **Configuring TypeScript Projects**
 
     (1st approach): Added new lectures in new section, moved old section (now marked as LEGACY) to the end of the course
 
-    If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 5).
+    If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 4).
 
-    Alternatively, you can switch to the new, updated section 4 right away and rewatch it from the beginning. This is not required, though.
+    Alternatively, you can switch to the new, updated section 3 right away and rewatch it from the beginning. This is not required, though.
+
+4. **Essentials Demo Project**
+
+    BRAND-NEW section! 
 
 5. **Next-generation JavaScript & TypeScript**
 
