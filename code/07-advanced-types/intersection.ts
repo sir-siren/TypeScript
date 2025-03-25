@@ -1,16 +1,16 @@
 type FileData = {
-  path: string;
-  content: string;
+    path: string;
+    content: string;
 };
 
 type DatabaseData = {
-  connectionUrl: string;
-  credentials: string;
-}
+    connectionUrl: string;
+    credentials: string;
+};
 
 type Status = {
-  isOpen: boolean;
-  errorMessage?: string;
+    isOpen: boolean;
+    errorMessage?: string;
 };
 
 type AccessedFileData = FileData & Status;

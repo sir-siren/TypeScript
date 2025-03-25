@@ -15,18 +15,17 @@ type FullnamePerson = { firstName: string; lastName: string };
 type FullnameOrNothing<T> = T extends FullnamePerson ? string : never;
 
 function getFullname<T extends object>(person: T): FullnameOrNothing<T> {
-  if (
-    'firstName' in person &&
-    'lastName' in person &&
-    person.firstName &&
-    person.lastName
-  ) {
-    return `${person.firstName} ${person.lastName}` as FullnameOrNothing<T>;
-  }
+    if (
+        "firstName" in person &&
+        "lastName" in person &&
+        person.firstName &&
+        person.lastName
+    ) {
+        return `${person.firstName} ${person.lastName}` as FullnameOrNothing<T>;
+    }
 
-  throw new Error('No first name and / or last name found.');
+    throw new Error("No first name and / or last name found.");
 }
 
 const name1 = getFullname({});
-const name2 = getFullname({firstName: 'Max', lastName: 'Schwarzmüller'})
-
+const name2 = getFullname({ firstName: "Max", lastName: "Schwarzmüller" });

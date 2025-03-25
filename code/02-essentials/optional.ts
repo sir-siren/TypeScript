@@ -1,14 +1,14 @@
 function generateError(msg?: string) {
-  throw new Error(msg);
+    throw new Error(msg);
 }
 
 generateError();
 
 type User = {
-  name: string;
-  age: number;
-  role?: 'admin' | 'guest'
+    name: string;
+    age: number;
+    role?: "admin" | "guest";
 };
 
-let input = '';
+let input = "";
 const didProvideInput = input ?? false;

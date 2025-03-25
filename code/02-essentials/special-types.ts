@@ -1,6 +1,6 @@
 let a: null | string;
 
-a = 'Hi!';
+a = "Hi!";
 
 // ...
 
