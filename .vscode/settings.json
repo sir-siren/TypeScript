@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActions.triggerOnFocusChange": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true
+}
